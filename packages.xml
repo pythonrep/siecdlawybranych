@@ -1,0 +1,10 @@
+<application>
+  <component name="PyPackageService">
+    <option name="sdkToUsersite">
+      <map>
+        <entry key="/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="true" />
+      </map>
+    </option>
+    <option name="LAST_TIME_CHECKED" value="1497465169572" />
+  </component>
+</application>
