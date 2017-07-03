@@ -7,6 +7,7 @@
       <mapping pattern="registraoin_new_user" type="Python" />
       <mapping pattern="BasicActon" type="Python" />
       <mapping ext="olx" type="Python" />
+      <mapping ext="pyc" type="XML" />
     </extensionMap>
   </component>
 </application>
